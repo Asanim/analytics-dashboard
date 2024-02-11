@@ -38,4 +38,8 @@ next-env.d.ts
 # amplify
 .amplify
 amplifyconfiguration*
+
+# development files
 backdate*
+archive
+public/images/
